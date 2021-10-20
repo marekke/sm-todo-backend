@@ -8,7 +8,7 @@ Learning App
 
 Clone the repository
 ```
-git clone git@github.com:marekke/sm-todo-backend.git
+git clone https://github.com/marekke/sm-todo-backend.git
 ```
 
 Switch to the repo folder
